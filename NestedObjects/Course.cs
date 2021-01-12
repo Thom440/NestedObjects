@@ -4,6 +4,7 @@ using System.Text;
 
 namespace NestedObjects
 {
+    class Course
     {
         /// <summary>
         /// The title of the course
