@@ -4,9 +4,6 @@ using System.Text;
 
 namespace NestedObjects
 {
-    /// <summary>
-    /// Represents an individual course
-    /// </summary>
     class Course
     {
         /// <summary>
